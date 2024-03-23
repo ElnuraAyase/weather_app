@@ -1,0 +1,14 @@
+{
+  "name": "simple-weather-app",
+  "version": "1.0.0",
+  "description": "A simple command-line weather app written in Node.js",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
